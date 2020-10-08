@@ -9,6 +9,7 @@
 3. 파일명은 입력받은 이미지명과 숫자를 순서대로 출력함.
 
 ### 미리보기
+![Image_Downloader](https://user-images.githubusercontent.com/71266602/95449626-00563880-09a0-11eb-99a2-1ecf6d2a2fde.png)
 
 
 이미지를 검색하여 20장 다운로드
